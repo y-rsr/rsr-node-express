@@ -1,0 +1,9 @@
+{
+  "MongoUri": "mongodb://localhost:27017",
+  "secret": "$doNotSkipOptionalDependencies&",
+  "PORT": 4000,
+  "HOSTNAME": "192.168.1.186",
+  "S3_ACCESS_KEY": "AKIAIRSODBSPHZPOP3VQ",
+  "S3_SECRET_KEY": "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",
+  "S3_BUCKET_NAME": "rsr-node-dev"
+}
